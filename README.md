@@ -8,7 +8,7 @@ FableCat is a borderless, always-on-top desktop companion written in pure Python
 
 <img width="847" height="495" alt="image" src="https://github.com/user-attachments/assets/ca626245-2a76-486b-b70d-e6f0a5a7647d" />
 
-<img width="254" height="233" alt="image" src="https://github.com/user-attachments/assets/5bbe1a10-d78c-4edc-861a-844acc77e1cf" /> <img width="249" height="223" alt="image" src="https://github.com/user-attachments/assets/f63d1a5e-3e18-45ff-b915-0da6289eca6d" /> <img width="174" height="183" alt="image" src="https://github.com/user-attachments/assets/db5701c4-744b-4382-ad91-fbe3b2416a3e" /> <img width="299" height="260" alt="image" src="https://github.com/user-attachments/assets/b21de5e5-462e-4ccf-a9d0-7d9d0fc7ebdb" />
+<img width="249" height="223" alt="image" src="https://github.com/user-attachments/assets/f63d1a5e-3e18-45ff-b915-0da6289eca6d" /> <img width="174" height="183" alt="image" src="https://github.com/user-attachments/assets/db5701c4-744b-4382-ad91-fbe3b2416a3e" /> <img width="299" height="260" alt="image" src="https://github.com/user-attachments/assets/b21de5e5-462e-4ccf-a9d0-7d9d0fc7ebdb" />
 
 
 ## 🐾 What Can FableCat Do?
